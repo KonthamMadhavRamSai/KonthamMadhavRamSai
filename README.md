@@ -9,19 +9,22 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/konthammadhavram/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Kontham_MadhavRamSai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/kontham_madhav"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/konthammadhavram"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="mailto:127015050@sastra.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 3rd-year B.Tech Information Technology student at **SASTRA Deemed University**, graduating **2027**
-- 💡 Focused on **Full-Stack AI Engineering** — building products where backend, frontend, and ML meet
+- 🎓 B.Tech Information Technology student at **SASTRA Deemed University** — **CGPA 9.13**, graduating **2027**
+- 💡 Building **AI-integrated full-stack systems** — from LLM-powered tooling to hybrid deep learning models
+- 💼 MERN Stack Development Intern @ **EMERXTE** — led a 3-member team building a full-stack booking platform
 - 🏆 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-- 🧠 Active competitive programmer across **LeetCode, HackerRank & CodeChef**
-- 🔭 Currently building **GitPulse AI**, **Vyoma**, **CardioHybridNet**, and **HomelyHub**
-- 📫 Open to **internships** in AI/full-stack engineering
+- 🧠 Competitive programmer — **CodeChef Global Rank 1** (DevWeekend 55), **1500+ rated** | **HackerRank Gold Badge**, 5★ Problem Solving
+- 🔭 Currently building **Vyoma**, **GitPulse AI**, and **CardioHybridNet**
+- 📫 Open to **full-stack AI engineering internships**
 
 ---
 
@@ -34,11 +37,21 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -71,11 +84,26 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**GitPulse AI**](https://github.com/KonthamMadhavRamSai/GitPulseAI) | Repo intelligence for AI assistants — health scores, PR reviews, issue triage via MCP, visualized in React | Python, MCP, React |
-| [**Vyoma**](https://github.com/KonthamMadhavRamSai/Vyoma) | Agile workspace platform — role-based collaboration, Kanban, milestones, analytics, JWT auth | Java, Spring Boot, React |
-| [**CardioHybridNet**](https://github.com/KonthamMadhavRamSai/CardioHybridNet) | Hybrid CNN-LSTM heart disease prediction, benchmarked against IEEE Access (2023) paper | Python, TensorFlow |
-| [**HomelyHub**](https://github.com/KonthamMadhavRamSai/HomelyHub) | Full-stack property booking platform | MongoDB, Express, React, Node |
-| [**VoyagerAI**](https://github.com/KonthamMadhavRamSai/VoyagerAI) | AI travel assistant — state-machine dialogue flow, real-time field extraction | JavaScript, NLP |
+| [**Vyoma**](https://github.com/KonthamMadhavRamSai/Vyoma) | Full-stack workspace platform — JWT auth, BCrypt, RBAC (Owner/Admin/Viewer) across 15+ domain modules, token-based dark-theme design system | Java 21, Spring Boot 4, React 19 + TS, PostgreSQL |
+| [**CardioHybridNet**](https://github.com/KonthamMadhavRamSai/CardioHybridNet) | Hybrid 1D-CNN + LSTM heart disease predictor — reproduced & extended an IEEE Access (2023) paper across 8 benchmarked models, 97.53% accuracy / 0.994 AUC-ROC | Python, TensorFlow/Keras, scikit-learn |
+| [**GitPulse AI**](https://github.com/KonthamMadhavRamSai/GitPulseAI) | MCP server exposing 5 AI-callable GitHub tools — weighted repo health scoring, PR/issue triage, async GitHub API layer, 65+ tests | Python, FastAPI, React, MCP |
+| [**HomelyHub**](https://github.com/KonthamMadhavRamSai/HomelyHub) | Full-stack resort & lodge booking platform built during my EMERXTE internship — Redux Toolkit, Axios REST layer, Mongoose | MongoDB, Express, React, Node |
+
+---
+
+### 💼 Work Experience
+
+**MERN Stack Development Intern — EMERXTE** *(Remote, 2025)*
+- Led a 3-member team building **HomelyHub**, owning architecture decisions and frontend/backend integration
+- Directed UI/UX using Ant Design + ImageKit, establishing a reusable component architecture
+
+---
+
+### 🏅 Competitive Programming
+
+- **CodeChef** — Global Rank **1** (DevWeekend 55), Global Rank **147** (Starters 244), 1500+ rating → [Profile](https://www.codechef.com/users/kontham_madhav)
+- **HackerRank** — Gold Badge (Problem Solving), 5★ rating → [Profile](https://www.hackerrank.com/profile/konthammadhavram)
+- **LeetCode** → [Profile](https://leetcode.com/u/Kontham_MadhavRamSai/)
 
 ---
 
@@ -84,6 +112,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/konthammadhavram/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Kontham_MadhavRamSai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/kontham_madhav"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/konthammadhavram"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐️ If you like my work, consider starring my repositories!</i></p>
